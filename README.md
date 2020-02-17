@@ -5,6 +5,8 @@ Rework of esx_shops, to add a store in to the Burgershot MLO
 
 Adds Menu to order burgers at Burgershot MLO
 
+MLO of Burgershot can be found here; https://github.com/istoking/burgershot
+
 # Dependancies 
 mythic_notify - https://github.com/mythicrp/mythic_notify
 
