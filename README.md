@@ -1,3 +1,5 @@
+# UNMAINTAINED - I no longer work with ESX. QBCore is where it's at.
+
 # esx_burgershop
 Rework of esx_shops, to add a store in to the Burgershot MLO
 
